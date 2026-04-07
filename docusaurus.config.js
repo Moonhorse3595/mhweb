@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: '我的網頁',
+  tagline: '駿騰製作',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -67,7 +67,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: '做此網頁的方法',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -84,13 +84,13 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: '做此網頁的方法',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: '模板社區',
             items: [
               {
                 label: 'Stack Overflow',
@@ -114,13 +114,13 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/share/1A8Tu9HkJk/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} mhweb, made with docusaurus, and 駿騰製作`,
       },
       prism: {
         theme: lightCodeTheme,
