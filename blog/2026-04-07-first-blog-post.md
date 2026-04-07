@@ -1,8 +1,13 @@
 ---
 slug: 開張
 title: 開張
-authors: Mh
-tags: [test, first-post]
+authors:
+  - name: mh
+    title: websiter
+    url: https://github.com/Moonhorse3595
+tags: [greetings]
 ---
 
-## 網頁重新開始
+Congratulations, you have made your first post!
+
+Feel free to play around and edit this post as much you like.
