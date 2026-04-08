@@ -1,7 +1,11 @@
 ---
 slug: 開張
 title: 開張
-author: Moonhorse3595
+authors:
+    - name: Moonhorse3595
+        title: python/c++/rust developer
+        url: https://github.com/Moonhorse3595
+        image_url: https://github.com/Moonhorse3595.png
 tags: [重新開張, 技術棧]
 ---
 
