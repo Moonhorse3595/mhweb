@@ -120,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} mhweb, made with docusaurus, and 駿騰製作`,
+        copyright: `Copyright © ${new Date().getFullYear()} mhnet, made with docusaurus, and 駿騰製作`,
       },
       prism: {
         theme: lightCodeTheme,
