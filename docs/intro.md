@@ -2,26 +2,26 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 教程簡介
 
-Let's discover **Docusaurus in less than 5 minutes**.
+讓我們來探索 **如何做出更好的網頁**.
 
-## Getting Started
+## 開始
 
-Get started by **creating a new site**.
+開始 **做個新網頁**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+或 **試docusaurus** 使用 **[docusaurus.new](https://docusaurus.new)**.
 
-### What you'll need
+### 你需要的
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- [Node.js](https://nodejs.org/en/download/) 版本 16.14 或更高:
+  - 當在安裝Node.js時，你應該要確認依賴項
 
-## Generate a new site
+## 生成一個新網站
 
-Generate a new Docusaurus site using the **classic template**.
+用 **經典模板** 生成一個新Docusaurus網站
 
-The classic template will automatically be added to your project after you run the command:
+當你跑下面的指令後，模板會自動載入你的專案:
 
 ```bash
 npm init docusaurus@latest my-website classic
