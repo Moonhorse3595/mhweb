@@ -14,12 +14,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: '使用React框架',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        react是現在一個非常流行的前端框架，模板使用react開發的，多添加md編寫blog，讓我可以更快的更新內容
       </>
     ),
   },
