@@ -4,12 +4,12 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Focus on What Matters 未改',
+    title: '更多我的博客',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        我的博客會是分享我各個筆記或其他的內容，會不定期更新，歡迎來看看!
+        例如點擊上方的blog，就可以看到了!
       </>
     ),
   },
