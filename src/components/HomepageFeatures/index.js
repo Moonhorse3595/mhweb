@@ -4,6 +4,17 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
+    title: '簡介',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        我的個人網頁，希望多多看看我的內容，我是一個國中生，喜歡寫程式，像是python/c/c++
+        目前正在學習做網頁，用vercel部署，docusaurus模板，希望更多人可以學編程所以有時會發編程相關的
+        blog
+      </>
+      ),
+  },
+  {
     title: '更多我的博客',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
