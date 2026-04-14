@@ -27,20 +27,22 @@ sidebar_position: 1
 npm init docusaurus@latest my-website classic
 ```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+你可以在Command Prompt, Powershell, Terminal，或其他
+被在編輯器中整合的terminal。
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+此指令也會自動安裝跑Docusaurus所需要的依賴項
 
-## Start your site
+## 執行你的網站
 
-Run the development server:
+跑用來開發的伺服器(服務器):
 
 ```bash
 cd my-website
 npm run start
 ```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+`cd` 指令會換現在你工作的目錄。為了用你的Docusaurus網站，你需要
+尋找terminal
 
 The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
