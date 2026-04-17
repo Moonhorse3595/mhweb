@@ -41,9 +41,11 @@ cd my-website
 npm run start
 ```
 
-`cd` 指令會換現在你工作的目錄。為了用你的Docusaurus網站，你需要
+`cd` 指令會換成你正在工作的目錄。為了用你的Docusaurus網站，你需要
 尋找terminal
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+`npm run start` 命令可以通過開發伺服器本地創建網站，接著用
+http://localhost:3000/ 查看成果
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+打開 `docs/intro.md` (這一頁) 然後編輯一些**行**，這個網頁會 **自動重載**
+就可以看到變更了
