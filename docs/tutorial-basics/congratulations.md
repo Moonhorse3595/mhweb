@@ -2,13 +2,13 @@
 sidebar_position: 6
 ---
 
-# Congratulations!
+# 恭喜
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+你學了 **Docusaurus 的基礎** 並對 **初始化專案** 做了一些改變
 
-Docusaurus has **much more to offer**!
+我們有 **更多要讓你知道**!
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
+你有 ** 超過五分鐘的時間嗎 **? 看看 **[versioning](../tutorial-extras/manage-docs-versions.md)** 和 **[i18n](../tutorial-extras/translate-your-site.md)**.
 
 Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
 
